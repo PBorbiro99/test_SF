@@ -19,7 +19,8 @@
     "react-photo-gallery": "^8.0.0",
     "react-responsive-carousel": "^3.2.18",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "yarn": "^1.22.10"
   },
   "scripts": {
     "start": "react-scripts start",
